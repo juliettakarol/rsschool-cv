@@ -3,18 +3,16 @@
 # Julietta Karol
 ![photo](my_photo.jpg)
 
-
 ## Contacts
 
 - Location: Minsk, Belarus
 - Phone: +375 29 215 72 08
-- Email: julkakarolb@gmail.com
+- Email: julyettakarol@gmail.com
 - GitHub: [juliettakarol](https://github.com/juliettakarol)
 - LinkedIn: [julyeta-karol](https://www.linkedin.com/in/julyeta-karol/)
 
-
 ## About Me
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+I strive to become part of a friendly professional team in which I could develop my skills. Every day I raise the level of knowledge, read articles and necessary literature. I learn new things quickly. I can work in a team or alone. I love finding answers to questions.
 
 ## Skills
 - HTML
@@ -39,19 +37,19 @@ function disemvowel(str) {
 ## Experience
 
 ## Education
-- University: Belarusian National Technical University, Civil Engineering major
-- Courses:
-- Udemy
-- CS50 lectures
-- FreeCodeCamp
-- HTML Academy
-- JavaScript Manual on learnjavascript.ru (in progress)
-RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
++ University: Belarusian National Technical University, Power Engineering
++ Courses:
+  - [Udemy](https://www.udemy.com/course/javascript-ru/?couponCode=KEEPLEARNING) 
+  - FreeCodeCamp
+  - JavaScript on [learn.javascript.ru](https://learn.javascript.ru/)
+  - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Languages
-English - Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org)
-EFset Score
-Russian - Native
-Ukrainian - Intermediate
-Polish - Basic
-A2 (I had been practicing English, when I worked in the USA as an exchange student)Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+- English - Pre-Intermediate 
+- Russian - Native
+
+
+
+
+
+
