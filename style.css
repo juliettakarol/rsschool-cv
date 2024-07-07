@@ -1,0 +1,222 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+  color: black;
+  background-color: #f1f0ef; 
+}
+
+header {
+  background-color: #ddd0d1;
+}
+
+pre {
+  margin-left: -320px;
+  margin-top: 20px;
+  padding-left: 30px;
+}
+
+footer {
+  background-color: #ddd0d1;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 90px;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  color: black;
+  transition: 0.3s;
+}
+
+.nav-item a {
+  color: #829985;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+.nav-item a:hover {
+  color: #4d2323;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+
+.side-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left-side {
+  width: 40%;
+}
+
+.right-side {
+  width: 60%;
+}
+
+.main-photo {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+
+.section {
+  width: 70%;
+}
+
+.section-title {
+  background-color: #ddd0d1;
+}
+
+.contacts-list {
+  list-style: none;
+}
+
+.contacts-list span{
+  padding-left: 10px;
+}
+
+.contacts-link {
+  color: black;
+  display: flex;
+  align-items: center;
+}
+
+.contacts-item {
+  padding: 3px 0;
+  display: flex;
+  align-items: center;
+}
+
+.contacts-item a {
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.contacts-item a:hover {
+  color: #bb8b8f;
+  text-decoration: underline;
+}
+
+.contacts-item img{
+  width: 30px;
+  height: 30px;
+}
+
+.skills-item {
+  padding: 3px 0;
+ }
+
+.languages-item {
+  padding: 3px 0;
+}
+
+.name-title{
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-size: 60px;
+}
+
+.profession-title{
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 120px;
+}
+
+.courses-link {
+  color: black;
+}
+
+.courses-item {
+ padding: 3px 0;
+}
+
+.courses-item a {
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.courses-item a:hover {
+  color: #bb8b8f;
+  text-decoration: underline;
+}
+
+.projects-link {
+  color: black;
+  text-decoration: none;
+}
+
+.projects-link p {
+  text-decoration: none;
+  transition: color 0.3s;
+  margin-top: 0;
+}
+
+.projects-link p:hover {
+  color: #bb8b8f;
+  text-decoration: underline;
+}
+
+.footer-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.footer-github{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 150px;
+  text-decoration: none;
+  color: black;
+}
+
+.footer-github img{
+  width: 40px;
+  height: 40px;
+}
+
+.footer-rschool img{
+  width: 86px;
+  height: 32px;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
